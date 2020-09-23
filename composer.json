@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/newsletter",
+    "name": "codica-studio/newsletter",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/newsletter",
+    "homepage": "https://github.com/codica-studio/newsletter",
     "license": "MIT",
     "authors": [
         {
